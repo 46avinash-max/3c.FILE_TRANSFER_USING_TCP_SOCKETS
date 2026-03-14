@@ -55,9 +55,9 @@ while True:
 ~~~
 ## OUPUT
 ## CLIENT:
-Screenshot 2026-03-14 133531.png
+https://drive.google.com/file/d/1AyQz7bbJ-pFLvbTEcBGcaymDyJTjQZcz/view?usp=drive_link
 ## SERVER:
-Screenshot 2026-03-14 132854.png
+https://drive.google.com/file/d/1h1XMPM8CUgAhcbpv4uFgM1fLgl4vW5Yl/view?usp=drive_link
  
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
