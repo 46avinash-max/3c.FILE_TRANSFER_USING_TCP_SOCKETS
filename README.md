@@ -55,7 +55,7 @@ while True:
 ~~~
 ## OUPUT
 ## CLIENT:
-https://drive.google.com/file/d/1AyQz7bbJ-pFLvbTEcBGcaymDyJTjQZcz/view?usp=drive_link
+https://github.com/Midhun17072007/3c.FILE_TRANSFER_USING_TCP_SOCKETS?tab=readme-ov-file#ouput
 ## SERVER:
 https://drive.google.com/file/d/1h1XMPM8CUgAhcbpv4uFgM1fLgl4vW5Yl/view?usp=drive_link
  
