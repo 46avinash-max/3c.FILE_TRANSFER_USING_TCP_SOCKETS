@@ -54,6 +54,12 @@ while True:
     conn.close()
 ~~~
 ## OUPUT
+## SERVER
+<img width="1314" height="252" alt="3cserver" src="https://github.com/user-attachments/assets/6182a0fc-90be-4f64-891c-ccfafe65ad31" />
+## CLIENT
+
+<img width="1314" height="281" alt="3cclient" src="https://github.com/user-attachments/assets/67eead37-98ee-41f3-8b81-f57b6cb9772f" />
+
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
